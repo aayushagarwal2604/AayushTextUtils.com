@@ -3,3 +3,5 @@ This is my first edit in practice file.
 This is second edit, from local.
 
 This is edit from the branch1.
+
+This is an edit after merging PR and pulling.
